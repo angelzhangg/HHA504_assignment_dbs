@@ -9,8 +9,15 @@ The objective of this assignment is to introduce you to managed database service
   - Navigate to the Azure portal and create an Azure Database for MySQL.
   - Configure the database with basic settings (e.g., compute and storage options).
   - Start the database service and note the connection details.
-
+    
+![error](https://github.com/user-attachments/assets/969345ae-8834-4780-99e0-1a359cd34639)
 >could not set up a flexible mysql database for some reason so I used microsoft mysql instead
+
+![microsoft mysql](https://github.com/user-attachments/assets/f47a7065-31a9-4641-95a5-a0f4e852b98a)
+>could not set the region to east and could only do central
+
+![Mysql](https://github.com/user-attachments/assets/18610e65-d628-46f2-9b55-eeece87afb99)
+
 - **GCP MySQL:**
   - Access the Google Cloud Console and create a Cloud SQL instance with MySQL.
   - Configure the database instance similarly, noting any differences in setup between Azure and GCP.
