@@ -1,5 +1,5 @@
 
-## Objective
+# Objective
 The objective of this assignment is to introduce you to managed database services in Azure and Google Cloud Platform (GCP). You will learn how to start, stop, and monitor database-related services, including BigQuery and MySQL.
 
 ## Instructions
@@ -22,6 +22,8 @@ The objective of this assignment is to introduce you to managed database service
   - Access the Google Cloud Console and create a Cloud SQL instance with MySQL.
   - Configure the database instance similarly, noting any differences in setup between Azure and GCP.
   - Start the database service and document the connection details.
+    
+![Cloud mysql](https://github.com/user-attachments/assets/3d81bf41-8eea-45ea-83f5-0ccf3f522f0c)
 
 ### 2. Explore BigQuery (GCP)
 - **BigQuery:**
@@ -29,9 +31,31 @@ The objective of this assignment is to introduce you to managed database service
   - Load a small sample data file into a table within the dataset (e.g., a CSV file).
   - Run a simple query against the dataset to retrieve specific data.
   - Monitor the usage and cost associated with running the query.
+    
+![BigQuery database](https://github.com/user-attachments/assets/d77d242a-5857-4696-b51b-8e8226372c32)
+![creating table](https://github.com/user-attachments/assets/bb6c262c-4f53-485f-a96c-3086f3b274f4)
+![running query](https://github.com/user-attachments/assets/bf5bc07f-cd94-4d44-a0bb-17d70616de2e)
 
 ### 3. Monitor Database Services
 - **Azure:**
   - Use the Azure portal to monitor the performance and cost of the MySQL database. Explore metrics like CPU usage, memory, and query performance.
+    
+![azure monitoring](https://github.com/user-attachments/assets/0d22df6a-0c6c-4985-af32-78c2408f792a)
+
 - **GCP:**
   - Use the GCP Console to monitor the Cloud SQL instance and the BigQuery dataset. Pay attention to similar metrics and note any differences in monitoring tools between the two platforms.
+    
+ <img width="1316" alt="Screenshot 2024-10-21 at 1 02 17 AM" src="https://github.com/user-attachments/assets/68a7f388-f801-4dbe-ae3a-2e47d9d3a15b">
+
+<img width="1314" alt="Screenshot 2024-10-21 at 1 03 01 AM" src="https://github.com/user-attachments/assets/dab8cb31-d994-43ca-a773-f7ad3ae12dc6">
+
+<img width="1320" alt="Screenshot 2024-10-21 at 1 04 20 AM" src="https://github.com/user-attachments/assets/c237e7a2-7be9-46ac-9c20-cbee9106a198">
+
+## *Reflections on the differences Azure and GCP*
+
+- GCP uses Big Query to query their information from a csv file
+- Azure is more complicated and does not have this Big Query. 
+- More steps in Azure compared to GCP
+
+
+
